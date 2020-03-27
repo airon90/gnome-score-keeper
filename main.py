@@ -94,7 +94,7 @@ class Program(Gtk.Window):
         aboutdialog.set_comments("Keep track of your game points")
         aboutdialog.set_authors(["Michael Moroni"])
         aboutdialog.set_documenters(["Michael Moroni"])
-        aboutdialog.set_website("http://github.com/airon90/scoreKeeper")
+        aboutdialog.set_website("http://github.com/airon90/scorekeeper")
         aboutdialog.set_website_label("GitHub repository")
         aboutdialog.set_translator_credits("Michael Moroni")
 #        aboutdialog.set_logo(
